@@ -1,6 +1,5 @@
 # Author: Jeonghoon Lee
 # Date: 2021/11/04
-# CODG132 - Lab 1 - Ryerson University
 
 def re_province(province):
     """Converts province abbreviations to their full names."""
